@@ -13,4 +13,4 @@ mail_smtp_usr = "13800138000"
 mail_smtp_pwd = "abcdefghijk"
 
 mail_sender_desc = '"%s" <%s>' % ("SmsWeather", from_mail_addr)
-mail_subject = "天气"
+mail_subject = "天气预报"
